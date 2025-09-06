@@ -1,4 +1,4 @@
-# Meu Perfil Pessoal
+# Meu Perfil
 
 Este é meu projeto de página de apresentação pessoal. Nele, você encontrará informações sobre mim, como meu curso e minhas tecnologias favoritas.
 
